@@ -1,3 +1,6 @@
+/*
+    Write a Java Program to calculate the Sum of three numbers.
+ */
 import java.util.Scanner;
 public class Q1 {
 public static void main(String[] args) {
